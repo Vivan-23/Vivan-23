@@ -1,6 +1,6 @@
 <!-- Profile Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Data+Science+Engineer;Python+%7C+Java+%7C+Full-Stack+Developer;Freelancer+%7C+ML+Explorer+%7C+API+Builder;Let's+Build+Something+Awesome+Together!&center=true&width=1000&height=60&color=F78C6C&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+Developer+%26+ML+Engineer;Python+%7C+Java+%7C+Full-Stack+Developer;Freelancer+%7C+ML+Explorer+%7C+API+Builder;Let's+Build+Something+Awesome+Together!&center=true&width=1000&height=60&color=F78C6C&size=24" />
 </p>
 
 <h1 align="center">Hi there, I'm Vivan Shah 👋</h1>
