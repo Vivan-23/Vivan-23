@@ -16,8 +16,6 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🎓 Alumni Management System
 
 **Tech Stack:**  
