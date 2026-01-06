@@ -1,6 +1,6 @@
 <!-- Profile Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+Developer;ASP.NET+Core+%7C+REST+APIs+%7C+System+Design;JWT+Auth+%7C+SAML+SSO+%7C+Role-Based+Access;Building+Scalable+Enterprise+Backends&center=true&width=1000&height=60&color=F78C6C&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+Developer;ASP.NET+Core+%7C+REST+APIs+%7C+System+Design;JWT+Auth+%7C+SAML+Auth+;Building+Scalable+Enterprise+Backends&center=true&width=1000&height=60&color=F78C6C&size=28" />
 </p>
 
 
