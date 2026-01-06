@@ -16,59 +16,40 @@
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <!-- Alumni Management System -->
-    <td width="50%" valign="top">
-      <h3>🎓 Alumni Management System</h3>
+## 🚀 Featured Projects
 
-      <p>
-        <strong>Tech Stack:</strong><br/>
-        .NET Web API · JWT Authentication · MySQL · Role-Based Access
-      </p>
+### 🎓 Alumni Management System
 
-      <ul>
-        <li>Admin-controlled user onboarding with first-login password setup</li>
-        <li>Alumni profile management and directory</li>
-        <li>Event creation, listing, and registrations</li>
-        <li>Mentorship request and approval workflows</li>
-        <li>Job postings managed by alumni</li>
-        <li>Secure role-based authorization</li>
-      </ul>
+**Tech Stack:**  
+.NET Web API · JWT Authentication · MySQL · Role-Based Access
 
-      <p>
-        🔗 <a href="https://github.com/Vivan-23/Alumni-Management-Web-API">
-          Alumni-Management-Web-API
-        </a>
-      </p>
-    </td>
+**Key Features**
+- Admin-controlled user onboarding with first-login password setup
+- Alumni profile management and directory
+- Event creation, listing, and registrations
+- Mentorship request and approval workflows
+- Job postings managed by alumni
+- Secure role-based authorization
 
-    <!-- Azure AD SAML SSO -->
-    <td width="50%" valign="top">
-      <h3>🔐 Azure AD SAML SSO (AzureAdSSO)</h3>
+🔗 **Repository:**  
+https://github.com/Vivan-23/Alumni-Management-Web-API
 
-      <p>
-        <strong>Tech Stack:</strong><br/>
-        ASP.NET Core · Azure Active Directory · SAML 2.0 · Enterprise SSO
-      </p>
+---
 
-      <ul>
-        <li>SAML-based Single Sign-On integration with Azure AD</li>
-        <li>Enterprise authentication flow using Azure metadata</li>
-        <li>Configurable SAML settings via <code>appsettings.json</code></li>
-        <li>Reference implementation for enterprise SSO systems</li>
-        <li>Extensible controllers for custom auth logic</li>
-      </ul>
+### 🔐 Azure AD SAML SSO (AzureAdSSO)
 
-      <p>
-        🔗 <a href="https://github.com/Vivan-23/AzureAdSSO">
-          AzureAdSSO
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+**Tech Stack:**  
+ASP.NET Core · Azure Active Directory · SAML 2.0 · Enterprise SSO
 
+**Key Features**
+- SAML-based Single Sign-On integration with Azure AD
+- Enterprise authentication using Azure metadata
+- Configurable SAML settings via `appsettings.json`
+- Reference implementation for enterprise SSO systems
+- Extensible controllers for custom authentication logic
+
+🔗 **Repository:**  
+https://github.com/Vivan-23/AzureAdSSO
 
 
 
