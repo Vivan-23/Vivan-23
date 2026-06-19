@@ -59,7 +59,7 @@ https://github.com/Vivan-23/AzureAdSSO
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=python,java,cs,c,dotnet,postgres,mysql,git,github,azure,gmail,postman,rabbitmq,visualstudio](https://skillicons.dev/icons?i=python,java,cs,c,dotnet,fastapi,postgres,mysql,git,github,azure,gmail,docker,postman,rabbitmq,visualstudio,vscode)" />
+  <img src="[https://skillicons.dev/icons?i=python,java,cs,c,dotnet,fastapi,postgres,mysql,git,github,azure,gmail,docker,postman,rabbitmq,visualstudio,vscode]" />
 </p>
 
 ---
