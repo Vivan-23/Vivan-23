@@ -17,6 +17,21 @@
 
 ## 🚀 Featured Projects
 
+### 🛡️ Security Intelligence Platform (Multi-Agent Recon)
+**Tech Stack:**  
+FastAPI · LangGraph · PostgreSQL · SQLAlchemy · Alembic · VirusTotal API · Shodan API
+
+**Key Features**
+- Multi-agent orchestration pipeline (recon → processing → report agents) built with LangGraph
+- Real threat intelligence integration via VirusTotal (domain reputation, subdomain enumeration) and Shodan (open ports, CVE detection)
+- PostgreSQL persistence layer with Alembic migrations, replacing flat-file storage
+- Historical scan diffing — detects infrastructure changes between consecutive scans of the same domain
+- SSRF-hardened scope enforcement and IP allowlisting to prevent unauthorized probing
+- Rate-limited, fault-tolerant API integrations with graceful degradation on third-party failures
+
+🔗 **Repository:**  
+https://github.com/Vivan-23/multi-agent-orchestrator
+
 ### 🎓 Alumni Management System
 
 **Tech Stack:**  
@@ -59,7 +74,7 @@ https://github.com/Vivan-23/AzureAdSSO
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=python,java,cs,c,dotnet,fastapi,postgres,mysql,git,github,azure,gmail,docker,postman,rabbitmq,visualstudio,vscode]" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,c,dotnet,fastapi,postgres,mysql,git,github,azure,gmail,docker,postman,rabbitmq,visualstudio,vscode" />
 </p>
 
 ---
