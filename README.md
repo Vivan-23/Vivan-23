@@ -17,57 +17,39 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ Security Intelligence Platform (Multi-Agent Recon)
-**Tech Stack:**  
-FastAPI · LangGraph · PostgreSQL · SQLAlchemy · Alembic · VirusTotal API · Shodan API
+## 🚀 Featured Projects
 
-**Key Features**
-- Multi-agent orchestration pipeline (recon → processing → report agents) built with LangGraph
-- Real threat intelligence integration via VirusTotal (domain reputation, subdomain enumeration) and Shodan (open ports, CVE detection)
-- PostgreSQL persistence layer with Alembic migrations, replacing flat-file storage
-- Historical scan diffing — detects infrastructure changes between consecutive scans of the same domain
-- SSRF-hardened scope enforcement and IP allowlisting to prevent unauthorized probing
-- Rate-limited, fault-tolerant API integrations with graceful degradation on third-party failures
-
-🔗 **Repository:**  
-https://github.com/Vivan-23/multi-agent-orchestrator
-
-### 🎓 Alumni Management System
+### 🧠 DJSCE Brain — AI-Powered College Information Platform
 
 **Tech Stack:**  
-.NET Web API · JWT Authentication · MySQL · Role-Based Access
+Python · FastAPI · LangChain · LLMs · Vector Database · REST APIs
 
 **Key Features**
-- Admin-controlled user onboarding with first-login password setup
-- Alumni profile management and directory
-- Event creation, listing, and registrations
-- Mentorship request and approval workflows
-- Job postings managed by alumni
-- Secure role-based authorization
+- AI-powered assistant designed to help students access DJSCE-related information quickly
+- Context-aware responses for college resources, academics, events, and student queries
+- Backend API architecture built for scalable AI integrations
+- Retrieval-based workflow to provide more relevant and reliable answers
+- Designed with extensibility for additional datasets, services, and student-facing features
 
 🔗 **Repository:**  
-https://github.com/Vivan-23/Alumni-Management-Web-API
+https://github.com/Vivan-23
 
 ---
 
-### 🔐 Azure AD SAML SSO (AzureAdSSO)
+### ✈️ Flight Radar — Real-Time Flight Tracking Platform
 
 **Tech Stack:**  
-ASP.NET Core · Azure Active Directory · SAML 2.0 · Enterprise SSO
+Python · FastAPI · REST APIs · Real-Time Data · Maps · External APIs
 
 **Key Features**
-- SAML-based Single Sign-On integration with Azure AD
-- Enterprise authentication using Azure metadata
-- Configurable SAML settings via `appsettings.json`
-- Reference implementation for enterprise SSO systems
-- Extensible controllers for custom authentication logic
+- Tracks live aircraft data through external aviation-data APIs
+- Displays flight details such as aircraft position, altitude, speed, and route information
+- Backend services designed to handle real-time API requests efficiently
+- Clean API-driven architecture for integrating map-based flight visualizations
+- Focus on scalable data processing and reliable third-party API integration
 
 🔗 **Repository:**  
-https://github.com/Vivan-23/AzureAdSSO
-
-
-
- 
+https://github.com/Vivan-23
 
 ---
 
