@@ -4,10 +4,10 @@
 </p>
 
 
-<h1 align="center">Hi there, I'm Vivan Shah 👋</h1>
+<h1 align="center">Hi there, I'm Vivan Shah </h1>
 <p align="center">
-  🚀 Backend Web Development Engineer <br/>
-  💡 Building intelligent systems and smart APIs.
+   Backend Web Development Engineer <br/>
+   Building intelligent systems and smart APIs.
 </p>
 
 <p align="center">
@@ -15,11 +15,10 @@
   <a href="https://github.com/Vivan-23?tab=repositories"><img src="https://img.shields.io/github/stars/Vivan-23?label=Stars&style=social" /></a>
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-## 🚀 Featured Projects
 
-### 🧠 DJSCE Brain — AI-Powered College Information Platform
+### DJSCE Brain — AI-Powered College Information Platform
 
 **Tech Stack:**  
 Python · FastAPI · LangChain · LLMs · Vector Database · REST APIs
@@ -56,12 +55,12 @@ https://github.com/Vivan-23
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,c,dotnet,fastapi,postgres,mysql,git,github,azure,gmail,docker,postman,rabbitmq,visualstudio,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Web+Developer;AI+Systems+%7C+REST+APIs+%7C+System+Design;Real-Time+Data+%7C+LLM+Applications;Building+Scalable+Intelligent+Backends&center=true&width=1000&height=60&color=F78C6C&size=28" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <picture>
@@ -73,13 +72,13 @@ https://github.com/Vivan-23
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 - 📍 From India 🇮🇳  
-- 🤝 Open to collaborations & freelance projects  
-- 📧 Email me: [vivanshah2309@gmail.com](mailto:vivanshah2309@gmail.com)
-- 🔗 LinkedIn: [vivan-shah](https://www.linkedin.com/in/vivanshah2309/)  
-- 🌐 GitHub: [@Vivan-23](https://github.com/Vivan-23)
+-  Open to collaborations & freelance projects  
+-  Email me: [vivanshah2309@gmail.com](mailto:vivanshah2309@gmail.com)
+-  LinkedIn: [vivan-shah](https://www.linkedin.com/in/vivanshah2309/)  
+-  GitHub: [@Vivan-23](https://github.com/Vivan-23)
 ---
 
 ⭐ *If you like what I do, support my work by starring a project or following me!*
